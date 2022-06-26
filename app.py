@@ -28,3 +28,5 @@ if uploaded_image:
                file_name='palette.png',
                mime="image/png"
             )
+st.text("Made by Brena Rodrigues ^-^")
+st.text("github: brena-cmd")
